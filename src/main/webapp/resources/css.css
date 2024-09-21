@@ -1,0 +1,25 @@
+.body {
+    text-align: center;
+    display: block;
+}
+
+.btn-green {
+    background: green;
+    color: white;
+}
+
+.label {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.input {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.button {
+    margin-bottom: 10px;
+}
